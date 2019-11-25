@@ -2,7 +2,9 @@
 
 # Webs
 
-save and manage the useful websites.
++ [matplotlib官网](https://matplotlib.org)
+    + [Tutorial](https://matplotlib.org/3.1.1/tutorials/index.html)
++ [Jianxin Wu](https://cs.nju.edu.cn/wujx/)
 
 
 
@@ -19,6 +21,7 @@ save and manage the useful websites.
 - [RSS](https://docs.rsshub.app)
 - [Reveal.js](https://github.com/hakimel/reveal.js)：Markdown转HTML工具
 - [Outline官网](https://s3.amazonaws.com/outline-vpn/index.html#/zh-CN/home)
+- [YOLO官网](https://pjreddie.com/darknet/yolo/)
 
 
 
@@ -26,6 +29,7 @@ save and manage the useful websites.
 
 + [分类任务结果整理，截止至17年](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130)
 + [各种任务的SOTA](https://paperswithcode.com/sota)
++ [baseline](https://github.com/Cadene/pretrained-models.pytorch)
 
 
 
@@ -50,6 +54,7 @@ save and manage the useful websites.
 + [模型总结](https://modeldepot.io/browse)：基于Keras，有很多热门模型下载
 + [OpenCV-Python教程](https://www.kancloud.cn/aollo/aolloopencv/269602)
 + [编程实现Faster R-CNN](https://zhuanlan.zhihu.com/p/32404424 )
++ 
 
 ### GitHub仓库
 
@@ -60,6 +65,11 @@ save and manage the useful websites.
 + [算法实现与可视化](https://github.com/TheAlgorithms/Python)
 + [Git飞行规则](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 + [pytorchOpCounter计算模型参数量](https://github.com/Lyken17/pytorch-OpCounter)
++ [mmdetection](https://github.com/open-mmlab/mmdetection)
++ [Detectron](https://github.com/facebookresearch/Detectron)
++ [Detectron2](https://github.com/facebookresearch/Detectron)
++ [ThiNet](https://github.com/Roll920/ThiNet_Code)
++ [Darknet代码](https://github.com/pjreddie/darknet/tree/master/cfg)
 
 ### Books&Articles
 
