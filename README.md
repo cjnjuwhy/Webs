@@ -8,22 +8,57 @@
 
 
 
+### 会议
+
++ [NIPS19](https://nips.cc/Conferences/2019)
++ [AAAI2020](https://aaai.org/Conferences/AAAI-20/)
+
+
+
 ## 文档
+
+### Programming
 
 + [MATLAB文档](https://ww2.mathworks.cn/help/)
 + [Pytorch文档](https://pytorch.org/docs/stable/index.html)
++ [Keras Doc](https://keras.io)
++ [Keras-zh](https://keras-zh.readthedocs.io)
++ [Caffe官网](http://caffe.berkeleyvision.org/)
++ [TensorFlow官网](https://www.tensorflow.org)
++ [Numpy Reference](https://docs.scipy.org/doc/numpy/reference/index.html)：Numpy指南
++ [Python Imaging Library](http://effbot.org/imagingbook/)：著名的PIL库文档
++ [sklearn](https://sklearn.apachecn.org)
+
+### 实用工具
+
+- [NVIDIA-DALI](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/index.html)
+- [Apex](https://nvidia.github.io/apex/index.html)
+- [Requests](https://2.python-requests.org//zh_CN/latest/user/quickstart.html)
+- [tensorboardX](https://tensorboardx.readthedocs.io/en/latest/index.html)
+- [jupyter-nbextension](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
+
+
+
 + [希腊字母对应Latex语法](https://www.latex-tutorial.com/symbols/greek-alphabet/)
 + [Linux命令大全](https://man.linuxde.net)
 
 - [鸠摩搜书](https://www.jiumodiary.com/)
+
 - [在线LaTeX公式编辑](https://www.codecogs.com/latex/eqneditor.php)
+
 - [SkyTorrent](https://www.skytorrents.lol/?query=)
-- [RSS](https://docs.rsshub.app)
+
+- [RSS订阅](https://docs.rsshub.app)
+
 - [Reveal.js](https://github.com/hakimel/reveal.js)：Markdown转HTML工具
+
 - [Outline官网](https://s3.amazonaws.com/outline-vpn/index.html#/zh-CN/home)
+
 - [YOLO官网](https://pjreddie.com/darknet/yolo/)
 
+- [50种绘图整理](http://liyangbit.com/pythonvisualization/matplotlib-top-50-visualizations/)
 
+    
 
 ## 结果整理
 
@@ -46,15 +81,11 @@
 
 ### Programming
 
-+ [Caffe官网](http://caffe.berkeleyvision.org/)
-+ [TensorFlow官网](https://www.tensorflow.org)
-+ [Numpy Reference](https://docs.scipy.org/doc/numpy/reference/index.html)：Numpy指南
-+ [Pytorch Doc](https://pytorch.org/docs/stable/)
-+ [Python Imaging Library](http://effbot.org/imagingbook/)：著名的PIL库文档
 + [模型总结](https://modeldepot.io/browse)：基于Keras，有很多热门模型下载
 + [OpenCV-Python教程](https://www.kancloud.cn/aollo/aolloopencv/269602)
 + [编程实现Faster R-CNN](https://zhuanlan.zhihu.com/p/32404424 )
-+ 
+
+
 
 ### GitHub仓库
 
@@ -90,8 +121,6 @@
 
 
 
-
-
 ## 学习资源
 
 ### 网课
@@ -108,12 +137,6 @@
 + [动手学深度学习-李沐](https://github.com/d2l-ai/d2l-zh)
 + [矩阵论 bilibili](https://www.bilibili.com/video/av14731888?from=search&seid=8115881069345453463)
 
++ [厚大法考-刑法](https://www.bilibili.com/video/BV1dj411f7vb?p=4)
++ [变态心理学](https://www.youtube.com/watch?v=-2ftoS5_njI&list=PLy13jEoAZfgdr3vn-luQIiXhwidEb2ICe&index=3)
 
-
-# Papers
-
-
-
-+ 052 [Once for All: Train one Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)
-
-+ 054 [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332)
