@@ -5,6 +5,7 @@
 + [matplotlib官网](https://matplotlib.org)
     + [Tutorial](https://matplotlib.org/3.1.1/tutorials/index.html)
 + [Jianxin Wu](https://cs.nju.edu.cn/wujx/)
++ [DIGIX比赛](https://developer.huawei.com/consumer/en/activity/devStarAI/algo/competition.html#/preliminary/info/digix-trail-04/rank)
 
 
 
@@ -12,6 +13,8 @@
 
 + [NIPS19](https://nips.cc/Conferences/2019)
 + [AAAI2020](https://aaai.org/Conferences/AAAI-20/)
++ [CVPR2020](https://openaccess.thecvf.com/CVPR2020)
++ [ECCV2020](https://eccv2020.eu/accepted-papers/)
 
 
 
@@ -25,6 +28,7 @@
 + [Keras-zh](https://keras-zh.readthedocs.io)
 + [Caffe官网](http://caffe.berkeleyvision.org/)
 + [TensorFlow官网](https://www.tensorflow.org)
++ [MXNet](https://mxnet.cdn.apache.org)
 + [Numpy Reference](https://docs.scipy.org/doc/numpy/reference/index.html)：Numpy指南
 + [Python Imaging Library](http://effbot.org/imagingbook/)：著名的PIL库文档
 + [sklearn](https://sklearn.apachecn.org)
@@ -75,7 +79,7 @@
 + [Markdown语法集锦](https://www.cnblogs.com/Bone-ACE/p/4558870.html)
 + [HTML速查手册](https://www.runoob.com/html/html-quicklist.html)
 
-
++ [HanDong](https://handong1587.github.io)
 
 ## AI
 
@@ -101,6 +105,8 @@
 + [Detectron2](https://github.com/facebookresearch/Detectron)
 + [ThiNet](https://github.com/Roll920/ThiNet_Code)
 + [Darknet代码](https://github.com/pjreddie/darknet/tree/master/cfg)
++ [Detection Related](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-object-detection.md)
++ [DL Materials](https://github.com/cjnjuwhy/handong1587.github.io/tree/master/_posts/deep_learning)
 
 ### Books&Articles
 
