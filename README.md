@@ -15,6 +15,7 @@
 + [AAAI2020](https://aaai.org/Conferences/AAAI-20/)
 + [CVPR2020](https://openaccess.thecvf.com/CVPR2020)
 + [ECCV2020](https://eccv2020.eu/accepted-papers/)
++ [ECCV2020 papers](http://ecva.net/papers.php)
 
 
 
@@ -107,6 +108,8 @@
 + [Darknet代码](https://github.com/pjreddie/darknet/tree/master/cfg)
 + [Detection Related](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-object-detection.md)
 + [DL Materials](https://github.com/cjnjuwhy/handong1587.github.io/tree/master/_posts/deep_learning)
++ [Augmentor](https://github.com/mdbloice/Augmentor)
++ 
 
 ### Books&Articles
 
