@@ -16,6 +16,7 @@
 + [CVPR2020](https://openaccess.thecvf.com/CVPR2020)
 + [ECCV2020](https://eccv2020.eu/accepted-papers/)
 + [ECCV2020 papers](http://ecva.net/papers.php)
++ [AAAI2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
 
 
 
