@@ -6,6 +6,8 @@
     + [Tutorial](https://matplotlib.org/3.1.1/tutorials/index.html)
 + [Jianxin Wu](https://cs.nju.edu.cn/wujx/)
 + [DIGIX比赛](https://developer.huawei.com/consumer/en/activity/devStarAI/algo/competition.html#/preliminary/info/digix-trail-04/rank)
++ [cvpr21 submission](http://cvpr2021.thecvf.com/node/33)
++ [矢量图库](https://www.iconfont.cn)
 
 
 
@@ -15,8 +17,10 @@
 + [AAAI2020](https://aaai.org/Conferences/AAAI-20/)
 + [CVPR2020](https://openaccess.thecvf.com/CVPR2020)
 + [ECCV2020](https://eccv2020.eu/accepted-papers/)
++ [NIPS papers](https://papers.nips.cc)
 + [ECCV2020 papers](http://ecva.net/papers.php)
-+ [AAAI2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
++ [AAAI2020 papers](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
++ [ICLR2020 papers](https://iclr.cc/virtual_2020/papers.html?filter=keywords)
 
 
 
@@ -51,6 +55,8 @@
 - [鸠摩搜书](https://www.jiumodiary.com/)
 
 - [在线LaTeX公式编辑](https://www.codecogs.com/latex/eqneditor.php)
+
+- [在线LaTeX表格工具](https://www.tablesgenerator.com)
 
 - [SkyTorrent](https://www.skytorrents.lol/?query=)
 
