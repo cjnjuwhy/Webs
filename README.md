@@ -8,8 +8,11 @@
 + [DIGIX比赛](https://developer.huawei.com/consumer/en/activity/devStarAI/algo/competition.html#/preliminary/info/digix-trail-04/rank)
 + [cvpr21 submission](http://cvpr2021.thecvf.com/node/33)
 + [矢量图库](https://www.iconfont.cn)
++ [南大邮箱](https://box.nju.edu.cn/my-libs/)
 
-
++   [java在线调试](https://c.runoob.com/compile/10)
++   [Vision Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
++   [CVPR21-paper&code](https://github.com/amusi/CVPR2021-Papers-with-Code)
 
 ### 会议
 
@@ -47,8 +50,6 @@
 - [tensorboardX](https://tensorboardx.readthedocs.io/en/latest/index.html)
 - [jupyter-nbextension](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
 
-
-
 + [希腊字母对应Latex语法](https://www.latex-tutorial.com/symbols/greek-alphabet/)
 + [Linux命令大全](https://man.linuxde.net)
 
@@ -78,7 +79,7 @@
 + [各种任务的SOTA](https://paperswithcode.com/sota)
 + [baseline](https://github.com/Cadene/pretrained-models.pytorch)
 
-
++ [Detection](https://github.com/hoya012/deep_learning_object_detection)
 
 ## 博客
 
@@ -116,7 +117,8 @@
 + [Detection Related](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-object-detection.md)
 + [DL Materials](https://github.com/cjnjuwhy/handong1587.github.io/tree/master/_posts/deep_learning)
 + [Augmentor](https://github.com/mdbloice/Augmentor)
-+ 
+
+    
 
 ### Books&Articles
 
