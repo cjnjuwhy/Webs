@@ -57,6 +57,8 @@
 
 - [在线LaTeX公式编辑](https://www.codecogs.com/latex/eqneditor.php)
 
+- [在线LaTeX编辑](https://www.kexue.fm/latex.html)
+
 - [在线LaTeX表格工具](https://www.tablesgenerator.com)
 
 - [SkyTorrent](https://www.skytorrents.lol/?query=)
